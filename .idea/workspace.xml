@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba90bdb4-f049-408f-87a0-b1e8a236b698" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/eventsproject/services/EventServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/eventsproject/services/EventServicesImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/eventsproject/services/IEventServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/eventsproject/services/IEventServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/eventsproject/services/EventServicesImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/eventsproject/services/EventServicesImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/eventsproject/services/IEventServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/eventsproject/services/IEventServices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tn.esprit.eventsproject.EventServicesImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tn.esprit.eventsproject.EventServicesImplTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tn.esprit.eventsproject.EventServicesImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tn.esprit.eventsproject.EventServicesImplTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +145,7 @@
       <workItem from="1677034078734" duration="627000" />
       <workItem from="1677240972281" duration="539000" />
       <workItem from="1701439123068" duration="199000" />
-      <workItem from="1733479570932" duration="5323000" />
+      <workItem from="1733479570932" duration="6400000" />
     </task>
     <servers />
   </component>
