@@ -1,0 +1,12 @@
+tn\esprit\eventsproject\entities\Participant.class
+tn\esprit\eventsproject\repositories\ParticipantRepository.class
+tn\esprit\eventsproject\services\IEventServices.class
+tn\esprit\eventsproject\controllers\EventRestController.class
+tn\esprit\eventsproject\config\PerformanceAspect.class
+tn\esprit\eventsproject\entities\Tache.class
+tn\esprit\eventsproject\EventsProjectApplication.class
+tn\esprit\eventsproject\repositories\EventRepository.class
+tn\esprit\eventsproject\repositories\LogisticsRepository.class
+tn\esprit\eventsproject\entities\Event.class
+tn\esprit\eventsproject\services\EventServicesImpl.class
+tn\esprit\eventsproject\entities\Logistics.class
