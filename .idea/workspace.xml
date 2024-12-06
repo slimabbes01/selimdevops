@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba90bdb4-f049-408f-87a0-b1e8a236b698" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/eventsproject/services/EventServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/eventsproject/services/EventServicesImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/eventsproject/services/IEventServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/eventsproject/services/IEventServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/eventsproject/services/EventServicesImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/eventsproject/services/EventServicesImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/esprit/eventsproject/services/IEventServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/esprit/eventsproject/services/IEventServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="package-info" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2IYk4hKFzkvG0wfRMxKcWNko5Mg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.eventsProject [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.eventsProject [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.eventsProject [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.eventsProject [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.eventsProject [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.eventsProject [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.eventsProject [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.EventsProjectApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;selim&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/slim_/Downloads/eventsProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ce8aff1541ace1196040d295e1f9cff8&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tn.esprit.eventsproject.config" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+      <command value="mvn test" />
+      <command value="mvn package" />
+      <command value="mvn install" />
+      <command value="mvn clean install" />
+      <command value="mvn release" />
+      <command value="mvn elease:prepare -Dresume=false" />
+      <command value="mvn release:prepare -Dresume=false" />
+      <command value="mvn release:prepare" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EventsProjectApplication">
+    <configuration name="All in eventsProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eventsProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventsProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eventsProject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esprit.eventsproject.EventsProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in eventsProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba90bdb4-f049-408f-87a0-b1e8a236b698" name="Changes" comment="" />
+      <created>1670365718059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670365718059</updated>
+      <workItem from="1670365719314" duration="9743000" />
+      <workItem from="1670375545885" duration="273000" />
+      <workItem from="1670412397547" duration="2404000" />
+      <workItem from="1670493620178" duration="43000" />
+      <workItem from="1672996075835" duration="400000" />
+      <workItem from="1673596877638" duration="22000" />
+      <workItem from="1675239329083" duration="5397000" />
+      <workItem from="1675246559124" duration="620000" />
+      <workItem from="1675606523337" duration="3361000" />
+      <workItem from="1675639983403" duration="613000" />
+      <workItem from="1675640660336" duration="881000" />
+      <workItem from="1675843814512" duration="1223000" />
+      <workItem from="1677034078734" duration="627000" />
+      <workItem from="1677240972281" duration="539000" />
+      <workItem from="1701439123068" duration="199000" />
+      <workItem from="1733479570932" duration="5323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+</project>
